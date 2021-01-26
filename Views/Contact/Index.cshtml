@@ -12,7 +12,7 @@
 
                 <div class="row">
                     <div class="col-md-10 col-md-offset-1">
-                        <form action="" class="reveal-content">
+                        <form action="" id="contact-form" class="reveal-content">
                             <div class="row">
                                 <div class="col-md-7">
                                     <div class="form-group">
@@ -24,7 +24,7 @@
                                     <div class="form-group">
                                         <textarea class="form-control" rows="5" placeholder="Enter your message"></textarea>
                                     </div>
-                                    <button type="submit" class="btn btn-default btn-lg">Send</button>
+                                    <button class="btn btn-default btn-lg g-recaptcha" data-sitekey="6LfZmjwaAAAAAJDQ7Myozm21eNzIRKaJwbVrAqSK" data-callback='onSubmit'>Send</button>
                                 </div>
                                 <div class="col-md-5 address-container">
                                     <ul class="list-unstyled">
@@ -69,3 +69,12 @@
         </div>
     </div>
 </div>
+@section Scripts
+{
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+    <script>
+        function onSubmit(token) {
+            document.getElementById("contact-form").submit();
+        }
+    </script>
+}
