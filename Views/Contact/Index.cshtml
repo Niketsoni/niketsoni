@@ -22,7 +22,7 @@
                                         <input type="text" class="form-control" id="subject" placeholder="Subject">
                                     </div>
                                     <div class="form-group">
-                                        <textarea class="form-control" rows="5" placeholder="Enter your message"></textarea>
+                                        <textarea class="form-control" rows="5" id="message" placeholder="Enter your message"></textarea>
                                     </div>
                                     <button class="btn btn-default btn-lg g-recaptcha" data-sitekey="6LfZmjwaAAAAAJDQ7Myozm21eNzIRKaJwbVrAqSK" data-callback='onSubmit'>Send</button>
                                 </div>
@@ -74,7 +74,21 @@
     <script src="https://www.google.com/recaptcha/api.js" async defer></script>
     <script>
         function onSubmit(token) {
-            document.getElementById("contact-form").submit();
+            var obj = {
+                name: $('#subject').val(),
+                email: $('#email').val(),
+                phone: $('#subject').val(),
+                description: $('#message').val(),
+            };
+            $.ajax({
+                type: "POST",
+                contentType: "application/json; charset=utf-8",
+                url: '/api/RequestDemo',
+                data: JSON.stringify(obj),
+                success: function (response) {
+                    location.reload();
+                }, 
+            });
         }
     </script>
 }

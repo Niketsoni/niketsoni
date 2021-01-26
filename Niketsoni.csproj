@@ -5,6 +5,10 @@
     <UserSecretsId>bfbe771c-2292-4ba4-84fc-bb2ed8289c7f</UserSecretsId>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="MailKit" Version="2.10.1" />
+  </ItemGroup>
+
 
 
 </Project>
