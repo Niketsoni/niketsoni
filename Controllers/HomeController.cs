@@ -20,7 +20,7 @@ namespace Niketsoni.Controllers
         public async Task<IActionResult> RequestDemo([FromBody] RequestDemo requestDemo)
         {
             var body = $"Subject: {requestDemo.Name}. Email: {requestDemo.Email}. Message: {requestDemo.Description}";
-            await _emailSender.SendEmailAsync("", "Demo Request", body);
+            await _emailSender.SendEmailAsync("", "From CodeNiket Contact", body);
             return Ok();
         }
     }
