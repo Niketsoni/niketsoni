@@ -4,12 +4,12 @@ Hi 👋 My name is Niket Soni
 Frontend Developer
 ------------------
 
-Passionate web Designer and Developer, skilled in designing and developing web apps using the latest web technologies. Creates seamless UX and UI with creative but functional designs. Designed multiple dashboards and websites for the SAAS application. Also having the Deep understanding of technology with the focus on delivering business solutions. Adroit at learning new concepts quickly, working well under pressure and communicating ideas clearly and effectively. Dedicated and highly ambitious to achieve personal goals as well as organizational goals. Excellent analytical and interpersonal and problem-solving skills. Awareness of Software Development Life Cycle and Software development through Agile Methodology. I hold a Bachelor of Engineering in Computer Science.
+Passionate web Designer and Developer, skilled in designing and developing web apps using the latest web technologies. Creates seamless UX and UI with creative but functional designs. Designed multiple dashboards and websites for the SAAS application. Also having a Deep understanding of technology with a focus on delivering business solutions. Adroit at learning new concepts quickly, working well under pressure and communicating ideas clearly and effectively. Dedicated and highly ambitious to achieve personal goals as well as organizational goals. Excellent analytical and interpersonal and problem-solving skills. Awareness of Software Development Life Cycle and Software development through Agile Methodology. I hold a Bachelor of Engineering in Computer Science.
 
 * 🌍  I'm based in Bangalore, India
 * 🖥️  See my portfolio at [Codeniket](http://codeniket.com)
 * ✉️  You can contact me at [niketsoni18@gmail.com](mailto:niketsoni18@gmail.com)
-* 🚀  I'm currently working on [CRWN Clothing](http://https://crwn-db-f40b0.web.app/)
+* 🚀  I'm currently working on [CRWN Clothing](http://crwn-db-f40b0.web.app/)
 * 🧠  I'm learning React, Angular, Design System, Typescript, JavaScript, Sass, HTML, CSS
 * 🤝  I'm open to collaborating on Freelance projects for any e commerce webapp.
 * ⚡  I'm an enthusiastic software developer who enjoys building awesome stuff and trying to learn from everyone and everything.
