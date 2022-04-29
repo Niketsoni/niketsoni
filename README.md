@@ -4,11 +4,13 @@ Hi 👋 My name is Niket Soni
 Frontend Developer
 ------------------
 
+Passionate web Designer and Developer, skilled in designing and developing web apps using the latest web technologies. Creates seamless UX and UI with creative but functional designs. Designed multiple dashboards and websites for the SAAS application. Also having the Deep understanding of technology with the focus on delivering business solutions. Adroit at learning new concepts quickly, working well under pressure and communicating ideas clearly and effectively. Dedicated and highly ambitious to achieve personal goals as well as organizational goals. Excellent analytical and interpersonal and problem-solving skills. Awareness of Software Development Life Cycle and Software development through Agile Methodology. I hold a Bachelor of Engineering in Computer Science.
+
 * 🌍  I'm based in Bangalore, India
 * 🖥️  See my portfolio at [Codeniket](http://codeniket.com)
 * ✉️  You can contact me at [niketsoni18@gmail.com](mailto:niketsoni18@gmail.com)
 * 🚀  I'm currently working on [CRWN Clothing](http://https://crwn-db-f40b0.web.app/)
-* 🧠  I'm learning React, Angular, Typescript
+* 🧠  I'm learning React, Angular, Design System, Typescript, JavaScript, Sass, HTML, CSS
 * 🤝  I'm open to collaborating on Freelance projects for any e commerce webapp.
 * ⚡  I'm an enthusiastic software developer who enjoys building awesome stuff and trying to learn from everyone and everything.
 
@@ -43,6 +45,16 @@ src="https://img.shields.io/github/followers/niketsoni?logo=github&style=for-the
 <p align="left"> <a href="https://www.facebook.com/niketsoni76" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/niketsoni" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/niket.soni" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/niketsoni18" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/niketsoni"><img src="https://github-readme-stats.vercel.app/api?username=niketsoni&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="niketsoni's GitHub stats" /></a>
+
+<a href="http://www.github.com/niketsoni"><img src="https://github-readme-streak-stats.herokuapp.com/?user=niketsoni&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/niketsoni"><img src="https://activity-graph.herokuapp.com/graph?username=niketsoni&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/niketsoni" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niketsoni&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
