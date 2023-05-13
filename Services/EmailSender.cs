@@ -28,7 +28,7 @@ namespace Niketsoni.Services
 
                 mimeMessage.From.Add(new MailboxAddress(_emailSettings.SenderName, _emailSettings.Sender));
 
-                mimeMessage.To.Add(new MailboxAddress("niket@entitynext.com"));
+                mimeMessage.To.Add(new MailboxAddress("niket@entitynext.com", "niket@entitynext.com"));
 
                 mimeMessage.Subject = subject;
 
